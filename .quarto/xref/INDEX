@@ -1,0 +1,32 @@
+{
+  "about.qmd": {
+    "about.html": "a02b68a2"
+  },
+  "index.qmd": {
+    "index.html": "b114ea8b"
+  },
+  "contatti.qmd": {
+    "contatti.html": "5fac881a"
+  },
+  "chi-siamo.qmd": {
+    "chi-siamo.html": "868f34e2"
+  },
+  "reproduction.qmd": {
+    "reproduction.html": "07a27c56"
+  },
+  "test/test.qmd": {
+    "test.html": "80286028"
+  },
+  "materiali.qmd": {
+    "materiali.html": "c41a56c8"
+  },
+  "video.qmd": {
+    "video.html": "13a33824"
+  },
+  "articoli.qmd": {
+    "articoli.html": "aaf3a492"
+  },
+  "lirica.qmd": {
+    "lirica.html": "5d949d28"
+  }
+}

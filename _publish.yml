@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: fffaaf0f-0de4-4ce1-a860-b6b3b1c7ba55
+      url: 'https://quartopub.com/sites/matteopedani/nocerosso'

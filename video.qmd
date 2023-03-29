@@ -1,0 +1,19 @@
+---
+title: "video"
+bibliography: references.bib
+---
+
+### Video
+
+Alcuni video che parlano, dell energia delle onde in maniera accessibile.
+
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUlA5WKDiww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0WimASD7kY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xrQBQ2m2blk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+```
+### 

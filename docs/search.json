@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "reproduction.html",
+    "href": "reproduction.html",
+    "title": "Chi siamo",
+    "section": "",
+    "text": "References\nIn this site we cite some text and some images from third institution’s\n\n“Ocean Energy Conversion in Europe Recent advancements and prospects” (© Centre for Renewable Energy Sources (CRES), 2006) [http://www.cres.gr/cres/index.html]"
+  },
+  {
+    "objectID": "articoli.html",
+    "href": "articoli.html",
+    "title": "Articoli scientifici",
+    "section": "",
+    "text": "Una selezione di articoli scientifici sull’energia dalle onde.\nSorted bedforms over transgressive deposits along the continental shelf of western Sardinia (Mediterranean Sea) [@defalco2015]\nWave energy potential in the north-west of Sardinia (Italy) [@vicinanza2013]\nSorted bedforms over transgressive deposits along the continental shelf of western Sardinia (Mediterranean Sea)[@defalco2015a]\nConcept design of an HTS linear power generator for wave energy conversion\nA study of a flux switching linear generator with a novel speed amplified mechanism and its optimization for the maximum power output and minimum cogging force of wave energy conversion[@liu2022]\n\n\nLibri\n\n\nLeggi\nUna selezione di leggi e regolamenti Italiane ed Europee ed internazionali importanti per il settore dell’energia dalle onde.\n\n\nDatabase di articoli filmati, libri, foto\n\nTethys knowledge data base\nTethys calendario di eventi"
+  },
+  {
+    "objectID": "articoli.html#running-code",
+    "href": "articoli.html#running-code",
+    "title": "articoli",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "video.html",
+    "href": "video.html",
+    "title": "video",
+    "section": "",
+    "text": "Video\nAlcuni video che parlano, dell energia delle onde in maniera accessibile."
+  },
+  {
+    "objectID": "chi-siamo.html",
+    "href": "chi-siamo.html",
+    "title": "Chi siamo",
+    "section": "",
+    "text": "la Nocerosso è una neonata Start-up innovativa, che è stata creata nel 2023 per fare ricerca e sviluppo, nel mondo della produzione di energia dalle onde del mare. Ralizziamo e vendiamo, campi di boe per la produzione di energia elettrica dalle onde del mare."
+  },
+  {
+    "objectID": "chi-siamo.html#nocerosso-s.r.l.",
+    "href": "chi-siamo.html#nocerosso-s.r.l.",
+    "title": "Chi siamo",
+    "section": "Nocerosso s.r.l.",
+    "text": "Nocerosso s.r.l.\n\nOristano\npec: nocerosso.pec@postecert.it\nemail: info@nocerosso.com\ntelefono: 0039.069415152\nCapitale Sociale: € 2000,00 i.v.\nCodice Fiscale e Registro Imprese di Oristano: 01267610952\nREA: OR - 359118"
+  },
+  {
+    "objectID": "contatti.html",
+    "href": "contatti.html",
+    "title": "contatti",
+    "section": "",
+    "text": "Sede Oristano \nTel: 069415152 \npec: mailto:pec-nocerosso@postecert.it"
+  },
+  {
+    "objectID": "materiali.html",
+    "href": "materiali.html",
+    "title": "materiali",
+    "section": "",
+    "text": "This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "materiali.html#including-plots",
+    "href": "materiali.html#including-plots",
+    "title": "materiali",
+    "section": "Including Plots",
+    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nocerosso",
+    "section": "",
+    "text": "Le onde sono create dal vento che si muove sulla superficie dell’oceano, ma continuano a lungo anche dopo che il vento si è placato. Questa complementarità rende l’energia del moto ondoso il partner perfetto per l’energia eolica, in quanto estende notevolmente la produzione di energia.\nCatturiamo il movimento delle onde del mare e lo utilizzano per creare energia. La quantità di energia creata dipende dalla velocità, dall’altezza e dalla frequenza delle onde.\n\n\n\nDa oltre 150 anni sono stati brevettati dei sistemi per sfruttare le onde del mare, e da dopo il 1970, sempre più ricerca è stata fatta in questo campo, per ottimizzare e superare i problemi che sono connessi alla produzione di energia dal mare. Attualmente esistono diverse tecnologie ben consolidate per catturare l’energia delle onde.\n\n\n\npoint absorbers buoys 1\n\n\nNoi usiamo dei “point absorber” che sono boe galleggianti che convertono il movimento delle onde sulla superficie dell’acqua, ed usiamo questo movimento per produrre corrente elettrica, attraverso un generatore elettrico lineare.\n\n\n\nrapporto tra Potenza in KW e la Velocità della boa in m/s (Lejerskog et al. 2015)\n\n\n\n\n\nVoltaggio/tempo V/s (Lejerskog et al. 2015)\n\n\nPrevediamo di realizzare un campo di boe nel mare ad ovest della Sardegna dove come da studi (Vicinanza, Contestabile, e Ferrante 2013) pubblicati recentemete si possono avere delle medie di 9 kW/m di energia .\nPer maggiori informazioni sui nostri prodotti e servizi, contattaci al seguente indirizzo info@nocerosso.com siamo a vostra disposizione per rispondere a tutte le vostre domande.\n(Lejerskog et al. 2015)"
+  }
+]
