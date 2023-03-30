@@ -1,4 +1,4 @@
-## Altezza onde 
+## Altezza onde
 
 ```{=html}
 <iframe width="780" height="500" src="https://data.marine.copernicus.eu/viewer/expert?view=viewer&crs=epsg%3A4326&t=1680264000000&z=0&center=7.989640354498687%2C38.94420642708641&zoom=15.281955215796765&layers=W3siaWQiOiJjMSIsImxheWVySWQiOiJNRURTRUFfQU5BTFlTSVNGT1JFQ0FTVF9XQVZfMDA2XzAxNy9tZWQtaGNtci13YXYtYW4tZmMtaC9WSE0wIiwibG9nU2NhbGUiOmZhbHNlfV0%3D&objects=W3siaWQiOiJjMCIsImNycyI6ImVwc2c6NDMyNiIsImNvbXBsZXRlIjp0cnVlLCJncmFwaElkcyI6WyJNRURTRUFfQU5BTFlTSVNGT1JFQ0FTVF9XQVZfMDA2XzAxNy9tZWQtaGNtci13YXYtYW4tZmMtaC9WSE0wLy92KHQpIl0sInR5cGUiOiJwb2kiLCJjb29yZHMiOls3LjE4NzY5NjUyNDg5MzUzMSw0MC4wMzA3ODM4NDEyODM4Ml0sInBpbk9mZnNldCI6WzIyMiwtMjE5XX1d"></iframe>
@@ -9,7 +9,4 @@ Dal sito di Copernicus [Mediterranean Sea Waves Analysis and Forecast](https://d
 
 **References:**
 
--   Korres,
-    G., Oikonomou, C., Denaxa, D., & Sotiropoulou, M. (2022).
-    Mediterranean Sea Waves Analysis and Forecast (CMEMS MED-Waves, MEDWAΜ4
-    system) (Version 1) [Data set](https://data.marine.copernicus.eu/product/MEDSEA_ANALYSISFORECAST_WAV_006_017/description). Copernicus Monitoring Environment Marine Service (CMEMS). <https://doi.org/10.25423/CMCC/MEDSEA_ANALYSISFORECAST_WAV_006_017_MEDWAM4>
+-   Korres, G., Oikonomou, C., Denaxa, D., & Sotiropoulou, M. (2022). Mediterranean Sea Waves Analysis and Forecast (CMEMS MED-Waves, MEDWAΜ4 system) (Version 1) [Data set](https://data.marine.copernicus.eu/product/MEDSEA_ANALYSISFORECAST_WAV_006_017/description). Copernicus Monitoring Environment Marine Service (CMEMS). <https://doi.org/10.25423/CMCC/MEDSEA_ANALYSISFORECAST_WAV_006_017_MEDWAM4>
