@@ -1,4 +1,260 @@
 {
-    "sources": [],
+    "sources": [
+        {
+            "DOI": "10.1016/j.renene.2014.11.050",
+            "URL": "http://dx.doi.org/10.1016/j.renene.2014.11.050",
+            "author": [
+                {
+                    "family": "Lejerskog",
+                    "given": "Erik"
+                },
+                {
+                    "family": "Boström",
+                    "given": "Cecilia"
+                },
+                {
+                    "family": "Hai",
+                    "given": "Ling"
+                },
+                {
+                    "family": "Waters",
+                    "given": "Rafael"
+                },
+                {
+                    "family": "Leijon",
+                    "given": "Mats"
+                }
+            ],
+            "container-title": "Renewable Energy",
+            "id": "lejerskog2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        5
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "9-14",
+            "title": "Experimental results on power absorption from a wave energy converter at the Lysekil wave energy research site",
+            "type": "article-journal",
+            "volume": "77"
+        },
+        {
+            "DOI": "10.1016/j.margeo.2014.11.008",
+            "URL": "http://dx.doi.org/10.1016/j.margeo.2014.11.008",
+            "author": [
+                {
+                    "family": "De Falco",
+                    "given": "Giovanni"
+                },
+                {
+                    "family": "Budillon",
+                    "given": "Francesca"
+                },
+                {
+                    "family": "Conforti",
+                    "given": "Alessandro"
+                },
+                {
+                    "family": "Di Bitetto",
+                    "given": "Massimiliano"
+                },
+                {
+                    "family": "Di Martino",
+                    "given": "Gabriella"
+                },
+                {
+                    "family": "Innangi",
+                    "given": "Sara"
+                },
+                {
+                    "family": "Simeone",
+                    "given": "Simone"
+                },
+                {
+                    "family": "Tonielli",
+                    "given": "Renato"
+                }
+            ],
+            "container-title": "Marine Geology",
+            "id": "defalco2015",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "75-88",
+            "title": "Sorted bedforms over transgressive deposits along the continental shelf of western Sardinia (Mediterranean Sea)",
+            "type": "article-journal",
+            "volume": "359"
+        },
+        {
+            "DOI": "10.1016/j.renene.2012.07.015",
+            "URL": "http://dx.doi.org/10.1016/j.renene.2012.07.015",
+            "author": [
+                {
+                    "family": "Vicinanza",
+                    "given": "D."
+                },
+                {
+                    "family": "Contestabile",
+                    "given": "P."
+                },
+                {
+                    "family": "Ferrante",
+                    "given": "V."
+                }
+            ],
+            "container-title": "Renewable Energy",
+            "id": "vicinanza2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        2
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "506-521",
+            "title": "Wave energy potential in the north-west of Sardinia (Italy)",
+            "type": "article-journal",
+            "volume": "50"
+        },
+        {
+            "DOI": "10.1016/j.margeo.2014.11.008",
+            "URL": "http://dx.doi.org/10.1016/j.margeo.2014.11.008",
+            "author": [
+                {
+                    "family": "De Falco",
+                    "given": "Giovanni"
+                },
+                {
+                    "family": "Budillon",
+                    "given": "Francesca"
+                },
+                {
+                    "family": "Conforti",
+                    "given": "Alessandro"
+                },
+                {
+                    "family": "Di Bitetto",
+                    "given": "Massimiliano"
+                },
+                {
+                    "family": "Di Martino",
+                    "given": "Gabriella"
+                },
+                {
+                    "family": "Innangi",
+                    "given": "Sara"
+                },
+                {
+                    "family": "Simeone",
+                    "given": "Simone"
+                },
+                {
+                    "family": "Tonielli",
+                    "given": "Renato"
+                }
+            ],
+            "container-title": "Marine Geology",
+            "id": "defalco2015a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "75-88",
+            "title": "Sorted bedforms over transgressive deposits along the continental shelf of western Sardinia (Mediterranean Sea)",
+            "type": "article-journal",
+            "volume": "359"
+        },
+        {
+            "DOI": "10.1016/j.ymssp.2021.108413",
+            "URL": "http://dx.doi.org/10.1016/j.ymssp.2021.108413",
+            "author": [
+                {
+                    "family": "Liu",
+                    "given": "Zhenwei"
+                },
+                {
+                    "family": "Xiao",
+                    "given": "Han"
+                },
+                {
+                    "family": "Khatri",
+                    "given": "Pooja"
+                },
+                {
+                    "family": "Ding",
+                    "given": "Songlin"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Xu"
+                }
+            ],
+            "container-title": "Mechanical Systems and Signal Processing",
+            "id": "liu2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        3
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "108413",
+            "title": "A study of a flux switching linear generator with a novel speed amplified mechanism and its optimization for the maximum power output and minimum cogging force of wave energy conversion",
+            "type": "article-journal",
+            "volume": "166"
+        },
+        {
+            "DOI": "10.25423/CMCC/MEDSEA_ANALYSISFORECAST_WAV_006_017_MEDWAM4",
+            "URL": "https://resources.marine.copernicus.eu/product-detail/MEDSEA_ANALYSISFORECAST_WAV_006_017/INFORMATION",
+            "author": [
+                {
+                    "family": "Korres",
+                    "given": "Gerasimos"
+                },
+                {
+                    "family": "Oikonomou",
+                    "given": "Charikleia"
+                },
+                {
+                    "family": "Denaxa",
+                    "given": "Dimitra"
+                },
+                {
+                    "family": "Sotiropoulou",
+                    "given": "Maria"
+                }
+            ],
+            "id": "korres2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "language": "en",
+            "publisher": "Copernicus Monitoring Environment Marine Service (CMEMS)",
+            "title": "Mediterranean Sea Waves Analysis and Forecast (Copernicus Marine Service MED-Waves, MEDWAM4 system)",
+            "type": ""
+        }
+    ],
     "project_biblios": []
 }
