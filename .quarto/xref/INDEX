@@ -28,5 +28,29 @@
   },
   "lirica.qmd": {
     "lirica.html": "5d949d28"
+  },
+  "pagine/articoli.qmd": {
+    "articoli.html": "a1f883bb"
+  },
+  "pagine/reproduction.qmd": {
+    "reproduction.html": "5305f9be"
+  },
+  "pagine/chi-siamo.qmd": {
+    "chi-siamo.html": "5f489b6c"
+  },
+  "pagine/video.qmd": {
+    "video.html": "6f30ad1a"
+  },
+  "persone/matteo_pedani.qmd": {
+    "matteo_pedani.html": "746c3799"
+  },
+  "persone/matteo_pedani/matteo_pedani.qmd": {
+    "matteo_pedani.html": "0d33744b"
+  },
+  "pagine/previsioni.qmd": {
+    "previsioni.html": "fb87f312"
+  },
+  "previsioni.qmd": {
+    "previsioni.html": "b257057f"
   }
 }

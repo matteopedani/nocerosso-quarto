@@ -10,6 +10,8 @@ website:
         href: video.qmd
       - text: articoli
         href: articoli.qmd
+      - text: onde
+        href: previsioni.qmd
     right:
       - text: contatti
         href: chi-siamo.qmd

@@ -1,9 +1,9 @@
 ---
-title: "Chi siamo"
+title: "riferimenti"
 ---
 
-# References 
+# 
 
-In this site we cite  some text and some images from third institution's 
+In this site we cite some text and some images from third institution's
 
-1. "Ocean Energy Conversion in Europe Recent advancements and prospects" (© Centre for Renewable Energy Sources (CRES), 2006) [http://www.cres.gr/cres/index.html]  
+1.  "Ocean Energy Conversion in Europe Recent advancements and prospects" (© Centre for Renewable Energy Sources (CRES), 2006) \[http://www.cres.gr/cres/index.html\]

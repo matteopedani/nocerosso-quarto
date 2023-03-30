@@ -1,10 +1,15 @@
 ---
-title: "Articoli scientifici"
+title: "Articoli"
 ---
 
-### 
+## Rassegna stampa
 
-Una selezione di articoli scientifici sull'energia dalle onde.
+### EURONEWS Svezia: record per l'energia eolica, gli altri Paesi dell'Unione sono in ritardo?
+
+```{=html}
+<iframe width="780" height="500" src="https://it.euronews.com/green/2023/03/29/svezia-record-per-lenergia-eolica-gli-altri-paesi-dellunione-sono-in-ritardo" title="Svezia: record per l'energia eolica"></iframe>
+```
+### Una selezione di articoli scientifici sull'energia dalle onde.
 
 [Sorted bedforms over transgressive deposits along the continental shelf of western Sardinia (Mediterranean Sea)](https://www.sciencedirect.com/science/article/pii/S0025322714003533#f0005) [@defalco2015]
 
@@ -16,7 +21,7 @@ Una selezione di articoli scientifici sull'energia dalle onde.
 
 [A study of a flux switching linear generator with a novel speed amplified mechanism and its optimization for the maximum power output and minimum cogging force of wave energy conversion](https://www.sciencedirect.com/science/article/pii/S0888327021007627)[@liu2022]
 
-### Libri
+### 
 
 ### Leggi
 
