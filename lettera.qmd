@@ -1,0 +1,267 @@
+---
+author: Matteo Pedani
+lang: it
+format: 
+  html: default
+  pdf: 
+    documentclass: report
+    classoption: [onecolumn]
+    lof: true
+    lot: true
+    geometry:
+      - top=30mm
+      - left=20mm
+      - heightrounded
+    colorlinks: true
+  odt:
+    page: a4
+---
+
+**Gentile Dott.ssa Baroli,**
+
+Ti do' del tu come gentilmente mi hai chiesto lasciandoci. Da parecchio tempo che lavoro che questo ambizioso progetto che ti sottopongo, che come la tela di Penelope è stato costruito e disfatto più e più volte.
+
+Quando sono venuto a fare il sopralluogo in Sardegna da lì a poco sarebbe iniziato il covid cioè un paio anni fa, ma per me è come se fossero passati decenni, la mia vita è completamente cambiata, ponendomi davanti a difficili cambiamenti.
+
+Non ultima la difficoltà di trovare il necessario supporto economico. Finalmente fa poco tempo abbiamo creato una startup la "Nocerosso s.r.l." che ha come obbiettivo la ricerca e sviluppo nel settore marino.
+
+Non vedo l'ora di venire a parlarti ed iniziare a lavorare.
+
+Ringraziandoti per l'attenzione, resto a disposizione per qualsiasi ulteriore informazione.
+
+Cordiali saluti,
+
+**Matteo Pedani**
+
+\newpage
+
+### Business Plan
+
+Sono lieto di presentare un Business Plan innovativo e ambizioso, che punta a sviluppare una tecnologia all'avanguardia per la produzione di energia elettrica dalle onde del mare, e dal sole.
+
+Si tratta di un sistema integrato per la allevamento ittico in alto mare e di ostriche nelle lagune di Oristano prevede l'impiego di campi di boe "point absorber" e pannelli fotovoltaici galleggianti per la produzione di energia elettrica. L'utilizzo congiunto di tali tecnologie, insieme all'allevamento ittico e alle ostriche, comporta numerosi vantaggi.
+
+Uno dei maggiori vantaggi di questo sistema integrato è l'impiego cointemporaneo della stessa manodopera  per il controllo dei campi di boe e pannelli solari e per l'allevamento ittico e delle ostriche, che porta ad un aumento della resa per unità lavorativa. Ciò significa che i lavoratori possono controllare sia le attività di coltivazione che la produzione di energia elettrica, massimizzando  il loro tempo tra due attività, ed usando le stesse imbarcazioni.
+
+Inoltre, l'utilizzo di pannelli solari galleggianti permette di generare energia pulita senza impattare sulle risorse naturali. Infine, l'utilizzo di campi di boe "point absorber" consente di sfruttare l'energia delle onde per produrre energia elettrica, ed integrare la produzioni di energie rinnovabili, in maniera sinergica.
+
+Infatti il sole è presente specialmente d'estate e di giorno, al contrario delle onde che hanno la maggiore energia d'inverno e disponibili sia di giorno e notte. Questo permette di massimizzare l'utilizzo dell'elettrodotto che porta l'energia prodotta a terra, minimizzando i costi.
+
+L'analisi dell'energia rinnovabile in Italia e nel Mediterraneo evidenzia interessanti opportunità di crescita, in un contesto in cui le fonti di energia tradizionali mostrano i loro limiti. La Sardegna è uno dei punti di maggior energia del mediterraneo con una stima di 1 KWmq per la radiazione luminosa, e di 9 KWmq per l'energia dalle onde ben al di sopra di altre zone del mediterraneo. La Nocerosso S.r.l. intende sfruttare al meglio queste opportunità, attraverso la produzione di energia elettrica dalle onde del mare, grazie all'installazione di un campo di point absorber nel mare antistante Oristano, e nelle lagune.
+
+Vogliamo coinvolgere attivamente la comunità locale, ed i pescatori della zona e collaborare con Voi per fare una valutazione ed attuare tutte le iniziative atte a minizzare l'impatto ambientale e le autorità competenti per il rispetto delle normative ambientali. Al riguardo sono numerosi gli articoli scientifici che valutano positivamente gli impianti di produzione energetica. Per creare delle zone di mare "nursery" per gli organismi marini, zone che per motivi fisici che non permettono le attività di pesca più impattanti per l'ambiente marino come la pesca a strascico. Ma anzi portano ad uno sviluppo sinergico degli allevamenti ittici sia in mare aperto sia in laguna.
+
+In sintesi, la Nocerosso S.r.l. si presenta come un progetto innovativo e ambizioso, orientato verso un futuro sostenibile ed ecologico.
+
+## Fasi dello sviluppo
+
+#### Studio di fattibilità
+
+-   Una prima analisi preliminale è stata realizzata, studiando le tecnologie e le conoscenze dello stato dell'arte nel campo della produzione di energia dalle onde e dal sole, e lo studio delle realtà già attive nell'integrazione tra produzione energetica e attivita di allevamento ittico, facendo sopralluoghi nei luoghi prescelti, e studiando la documentazione scientifica disponibile.
+
+#### Costutuzione start-up ed insediamento presso un incubatore
+
+-   Abbiamo costituito la startup ***Nocerosso.***
+
+-   Insediamento presso l'incubatore ***IMC Parco scientifico e tecnologico della Sardegna***, a Oristano dove intendiamo insediare le attività di ricerca e sviluppo ed il primo impianto sperimentale, ed il primo impianto produttivo.
+
+-   Domanda di finaziamenti presso la regione Sardegna, e presso la comunità Europea, come startup e per la ricerca e sviluppo, come produzione di energia, e come sviluppo della piccola pesca.
+
+-   Posa boe per presa dati sulle onde e luminosità nel mare antistante la baia di Oristano.
+
+-   Installazione antenne per il collegamento radio dalle boe al tetto dell'**IMC**
+
+-   Inizio svituppo sito web
+
+#### Elettrodotto / dati
+
+Elettrodotto di collegamento tra il campo di boe e sede **IMC**
+
+-   Allestire un piccolo magazzino nel **IMC** dove depositare la strumentazione ed i materiali di consumo
+
+-   Prospezione e studio della morfologia del fondale marino, sia attraverso dati storici, sia attraverso un analisi del fondale tramite sonar.
+
+-   Progettazione elettrodotto/dati
+
+-   Analisi impatto ambientale elettrodotto
+
+-   Realizzazione di un armadio/cabina elettrica sperimentale all'interno dell **IMC**
+
+-   Concessione elettrodotto sperimentale presso le autorità competenti
+
+-   Istallazione di boa punto di arrivo elettrodotto (concentratore delle altre boe)
+
+-   Posa del cavidotto interrato per attraversare la spiaggia
+
+-   Posa dell'elettrodotto/dati
+
+#### Point Absorber alto mare
+
+Boe in ferrocemento con all'interno un generatore elettrico e sopra un pannelo fotovoltaico.
+
+-   Realizzare nel piazzale per mezzo delle casseforme le parti delle boe in ferro-cemento
+
+-   Allestire piccola piattaforma marina per il motaggio delle boe
+
+-   Progettazione point absorber e generatore
+
+-   Far costruire le parti meccaniche delle boe ad officina meccanica.
+
+-   Acquisto panelli fotovoltaici
+
+-   Assemblare le parti delle boe
+
+-   Assemblare generatore dentro le boe e pannelli sopra le boe
+
+#### Pannelli fotovoltaici laguna
+
+Pannelli solari fotovoltaici sopra una struttura di tubi in polipropilene ad alta densità.
+
+-   Progettazione impianto
+
+-   Richiesta permessi
+
+-   Acquisto tubi di polipropilene
+
+-   Acquisto pannelli fotovoltaici
+
+-   Assemblaggio in laguna struttura e pannelli
+
+-   Collegamento ad elettrodotto
+
+#### Gabbie allevamento pesce e ostriche 
+
+-   Proggettazione gabbie in tubi polietilene e rete e
+
+-   acquisto materiali
+
+-   allestimento chiatta per lavori
+
+-   allestimento gabbie
+
+## Richieste ad IMC
+
+Si prevede di svolgere il lavoro con una, due persone di coordinamento e controllo, di due operai al momento della costruzione, ed un paio di marinai al momento delle installazioni e della manutenzione ordinaria.
+
+Si chiede di poter disporre di:
+
+-   L'uso della struttura dell IMC, bagni, l'uso di un punto di ristoro, l'uso saltuario di una sala riunioni, la corrente per i computer portatili, la possibilità di accedere ad internet , ricevere la posta.
+
+-   L'installazione di un antenna radio sul tetto per collegare via radio le boe
+
+-   Poter allestire un armadio con trasformatori elettrici nel piazzale o nei magazzini.
+
+-   Poter far arrivare l'elettrodotto fino all'armadio
+
+-   Poter lasciare del materiale nel piazzale e avere la possibilità di poter lasciare degli attrezzi al coperto nei magazzini
+
+-   Poter utilizzare un imbarcazione andare alle boe da parte del personale di controllo.
+
+-   Poter usare una scrivania, anche saltuarimente.
+
+-   Avviare una collaborazione per la valutazione dell'impatto ambientale delle attività
+
+-   Fare un attività di guida, supporto nei rapporti con la Regione Sardegna e Sardegna Innova.
+
+-   Fare attività di incubatore d'impresa.
+
+-   Aiutarci nel coordinamento con i pescatori ed allevatori locali.
+
+-   Aiutarci nella redazione della parte scientifica, naturalistica, biologica, delle domande di finanziamento.
+
+In modo da guidarci nella richiesta dei finanziamenti necessari alla Regione Sardegna, per coprire i vostri costi.
+
+```{mermaid}
+gantt
+    dateFormat  YYYY-MM
+    axisFormat %b %y
+    title     Crono programma  -- Studio di Fattibilità e ideazione
+
+section studi fattibilità
+ricerca località sito                      :done, milestone, sito,  2019-09, 60d
+analisi mercato ittico                     :done, ittico, after sito , 100d
+analisi ostricoltura                           :done, ostriche, after ittico , 300d
+analisi allevamento ittico                     :done, pesci, after ittico , 300d
+analisi mercato del lavoro                  :done, lavoro, after energia , 100d
+analisi mercato energia                    :done, energia , after sito, 100d
+studio  boe point absorber                  :done, analisi, after energia , 1000d
+studio  generatori lineari     :done, analisi, after energia , 1000d
+studio fotovoltaico flottante              :done, analisi, after energia , 1000d
+studio elettrodotti marini                 :done, analisi, after energia , 1000d
+studio idroelettrico marino                :done, idroelettrico, after energia , 1000d
+studio idrogeno marino                     :done, idrogeno, after energia , 1000d
+studio  boe in ferrocemento                :done, analisi, after energia , 1000d
+studio  start-up innovative                :done, analisi, after sito , 90d
+
+```
+
+```{mermaid}
+gantt
+    dateFormat  YYYY-MM
+    axisFormat %b %y
+    title       Crono programma 
+
+
+section avvio start-up
+costituzione startup                        :done,milestone,   des1, 2022-12,2023-01
+ricerca e formazione personale :active,  des2, after des1, 300d
+insediamento sede di Oristano                     :active, milestone, crit, des3,2023-04,30d
+esternalizzatione fasi iniziali ricerca e sviluppo  :active,  ext ,afther des3,300d
+attivazione finaziamenti regione Sardegna startup 100k€ :active,  des4, after des3, 60d
+attivazione finanziamenti europei  3.5M€         :active,  des5, after des3, 120d
+b2b collaborazione con altre startup up di energia e pescatori :  after businessplan, 600d
+elaborazione  business plan                 :active,  businessplan, 2023-03, 60d
+emissione obbligazioni 150k€:  obbligazioni, after web  , 600d
+pubblica offerta quote azionarie 2M€ :  quote, after web , 600d
+
+section elettrodotto sperimentale
+prospezioni e studio :  elettrodotto,    after des4, 120d
+realizzazione cabina elettrica sperimentale: cabina, after elettrodotto, 15d
+concessione elettrodotto sperimentale : concessione,    after elettrodotto, 365d
+posa elettrodotto : posa,    after concessione, 60d
+allaccio alla rete elettrica: allaccio , after posa, 60d
+
+section elettrodotto 
+prospezioni e studio :  elettrodotto,    after des5, 120d
+concessione elettrodotto : concessione2,    after elettrodotto, 365d
+realizzazione cabina elettrica : cabina2, after concessione2, 30d
+posa elettrodotto : posa2,    after posa, 60d
+allaccio alla rete elettrica: allaccio2 , after posa2, 60d
+
+section point absorber 
+studio :  point,    after flottanti, 120d
+realizzazione software gestione boe :  soft,    after point, 120d
+realizzazione prototipo boa  : boa,    after point, 60d
+installazione boa : boa3, after point2, 30d
+realizzazione prototipo  generatore : point2,    after point, 60d
+installazione prototipo generatore : point3, after point2, 30d
+istallazione boe a palo moto ondoso : radioboe, after point2, 30d
+test prototipo : point4, after point3, 200d
+realizzazione seriale boe : point5,    after point4, 200d
+allaccio alla rete elettrica :   after allaccio, 60d
+
+section pannelli fotovoltaici flottanti in laguna  
+studio :  flottanti,    after des4, 60d
+concessione laguna : concessione_laguna,    after flottanti , 120d
+realizzazione prototipo : flottanti2,    after flottanti, 60d
+installazione prototipo : flottanti4, after concessione_laguna, 30d
+test prototipo : flottanti5 , after flottanti4, 30d
+allaccio rete elettrica:   after flottanti5, 90d
+realizzazione in serie : point5,   after  flottanti5, 200d
+
+section pannelli fotovoltaici flottanti alto mare
+studio :  flottanti_alto,    after flottanti, 120d
+realizzazione prototipo : flottanti_alto2,    after flottanti_alto, 60d
+installazione prototipo : flottanti_alto3, after flottanti_alto2, 30d
+test prototipo : flottanti_alto4 , after flottanti_alto3, 250d
+realizzazione in serie : flottanti_alto5,   after  flottanti_alto4, 200d
+allaccio rete elettrica :   after allaccio, 90d
+
+section comunicazione
+sviluppo sito web : active,  web, after  des1 , 200d
+elaborazione e registrazione marchio e logo :  marchio, after businessplan  , 60d
+attivazione agenzia stampa :  stampa, after web  , 30d
+promozione azionariato diffuso :  social, after stampa  , 300d
+coinvolgimento millenial   :  2k, after stampa  , 300d
+coinvolgimento partiti verdi europei    :  2k, after stampa  , 300d
+```
