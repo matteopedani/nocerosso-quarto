@@ -17,19 +17,21 @@ format:
     page: a4
 ---
 
-**Gentile Dott.ssa Baroli,**
+**Gentile Dott.ssa Maura Baroli,**
 
-Ti do' del tu come gentilmente mi hai chiesto lasciandoci. Da parecchio tempo che lavoro che questo ambizioso progetto che ti sottopongo, che come la tela di Penelope è stato costruito e disfatto più e più volte.
+È Da parecchio tempo che lavoro a questo ambizioso progetto che ti sottopongo, che come la tela di Penelope è stato costruito e disfatto più e più volte.
 
-Quando sono venuto a fare il sopralluogo in Sardegna da lì a poco sarebbe iniziato il covid cioè un paio anni fa, ma per me è come se fossero passati decenni, la mia vita è completamente cambiata, ponendomi davanti a difficili cambiamenti.
+Quando sono venuto a fare il sopralluogo in Sardegna da lì a poco sarebbe iniziato il covid cioè un paio anni fa, ma per me è come se fossero passati decenni, la mia vita è completamente cambiata, ponendomi davanti a difficili e tragici cambiamenti.
 
-Non ultima la difficoltà di trovare il necessario supporto economico. Finalmente fa poco tempo abbiamo creato una startup la "Nocerosso s.r.l." che ha come obbiettivo la ricerca e sviluppo nel settore marino.
+Non ultima la difficoltà di trovare il necessario supporto economico. Finalmente poco tempo fà abbiamo creato una startup la "Nocerosso s.r.l." che ha come obbiettivo la ricerca e sviluppo nel settore marino.
 
 Non vedo l'ora di venire a parlarti ed iniziare a lavorare.
 
 Ringraziandoti per l'attenzione, resto a disposizione per qualsiasi ulteriore informazione.
 
 Cordiali saluti,
+
+Dato che ho messo un paio di grafici qui può leggere la [lettera.html](https://nocerosso.com/lettera.html) completa oppure stamparla [lettera.pdf](https://nocerosso.com/lettera.pdf)
 
 **Matteo Pedani**
 
@@ -41,7 +43,7 @@ Sono lieto di presentare un Business Plan innovativo e ambizioso, che punta a sv
 
 Si tratta di un sistema integrato per la allevamento ittico in alto mare e di ostriche nelle lagune di Oristano prevede l'impiego di campi di boe "point absorber" e pannelli fotovoltaici galleggianti per la produzione di energia elettrica. L'utilizzo congiunto di tali tecnologie, insieme all'allevamento ittico e alle ostriche, comporta numerosi vantaggi.
 
-Uno dei maggiori vantaggi di questo sistema integrato è l'impiego cointemporaneo della stessa manodopera  per il controllo dei campi di boe e pannelli solari e per l'allevamento ittico e delle ostriche, che porta ad un aumento della resa per unità lavorativa. Ciò significa che i lavoratori possono controllare sia le attività di coltivazione che la produzione di energia elettrica, massimizzando  il loro tempo tra due attività, ed usando le stesse imbarcazioni.
+Uno dei maggiori vantaggi di questo sistema integrato è l'impiego cointemporaneo della stessa manodopera per il controllo dei campi di boe e pannelli solari e per l'allevamento ittico e delle ostriche, che porta ad un aumento della resa per unità lavorativa. Ciò significa che i lavoratori possono controllare sia le attività di coltivazione che la produzione di energia elettrica, massimizzando il loro tempo tra due attività, ed usando le stesse imbarcazioni.
 
 Inoltre, l'utilizzo di pannelli solari galleggianti permette di generare energia pulita senza impattare sulle risorse naturali. Infine, l'utilizzo di campi di boe "point absorber" consente di sfruttare l'energia delle onde per produrre energia elettrica, ed integrare la produzioni di energie rinnovabili, in maniera sinergica.
 
@@ -129,7 +131,7 @@ Pannelli solari fotovoltaici sopra una struttura di tubi in polipropilene ad alt
 
 -   Collegamento ad elettrodotto
 
-#### Gabbie allevamento pesce e ostriche 
+#### Gabbie allevamento pesce e ostriche
 
 -   Proggettazione gabbie in tubi polietilene e rete e
 

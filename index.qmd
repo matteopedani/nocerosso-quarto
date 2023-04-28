@@ -3,11 +3,19 @@ bibliography: references.bib
 lang: it
 ---
 
-## Energia dalle onde del mare {#sec-sviluppiamo-impianti-per-la-produzione-di-energia-dalle-onde-del-mare}
+## Integrazione di sistemi fotovoltaici e generatori elettrici dalle onde per l'allevamento di pesci e ostriche in Sardegna: uno studio di fattibilità
+
+Il crescente fabbisogno di energia elettrica e la necessità di ridurre le emissioni di gas serra hanno spinto la ricerca di soluzioni energetiche alternative. L'energia solare e quella generata dalle onde del mare rappresentano fonti di energia rinnovabile con grande potenziale. Inoltre, l'allevamento di pesci e ostriche è un'attività importante nella regione della Sardegna, dove le condizioni ambientali sono favorevoli. In questo articolo, verrà presentato uno studio di fattibilità di un sistema integrato di pannelli fotovoltaici e generatori elettrici dalle onde per l'allevamento di pesci e ostriche in mare aperto, davanti ad Oristano.
+
+## Energia e cibo dal mare, dalle onde, dal sole, dal vento e dagli allevamenti di molluschi e pesci. {#sec-sviluppiamo-impianti-per-la-produzione-di-energia-dalle-onde-del-mare}
+
+In alto mare mare tra la Sardegna e la Spagna un sistema integrato per allevamento di pesci e ostricoltura in alto mare, con l'istallazione contempora di pannelli fotovoltaici e generatori elettrici dalle onde.
+
+**Un sistema integrato, semplice per minimizzare i costi e la manutenzione**
 
 ![](img/water-gfb24d37d4_1920.png){width="713"}
 
-#### Come funziona? {#sec-come-funziona}
+#### Energia dalle onde? {#sec-come-funziona}
 
 Le onde sono create dal vento che si muove sulla superficie dell'oceano, ma continuano a lungo anche dopo che il vento si è placato. Questa complementarità rende l'energia del moto ondoso il partner perfetto per l'energia eolica, in quanto estende notevolmente la produzione di energia.
 
@@ -17,11 +25,7 @@ Catturiamo il movimento delle onde del mare e lo utilizzano per creare energia. 
 
 Da oltre 150 anni sono stati brevettati dei sistemi per sfruttare le onde del mare, e da dopo il 1970, sempre più ricerca è stata fatta in questo campo, per ottimizzare e superare i problemi che sono connessi alla produzione di energia dal mare. Attualmente esistono diverse tecnologie ben consolidate per catturare l'energia delle onde.
 
-![**point absorbers buoys** [^1]](img/Ocean-Harvesting-Technologies-Infinity-WEC-Cluster.png){fig-alt="Point absorbers buoys" fig-align="center"}
-
-[^1]: foto di oceanharvesting.com
-
-[^2]: foto di oceanharvesting.com
+{{< video https://www.youtube.com/embed/NGVEqVwin7Q >}}
 
 Noi usiamo dei "[point absorber](https://tethys-engineering.pnnl.gov/technology/point-absorber)" che sono boe galleggianti che convertono il movimento delle onde sulla superficie dell'acqua, ed usiamo questo movimento per produrre corrente elettrica, attraverso un generatore elettrico lineare.
 
@@ -32,5 +36,3 @@ Noi usiamo dei "[point absorber](https://tethys-engineering.pnnl.gov/technology/
 Prevediamo di realizzare un campo di boe nel mare ad ovest della Sardegna dove come da studi [@vicinanza2013] pubblicati recentemete si possono avere delle medie di 9 kW/m di energia .
 
 Per maggiori informazioni sui nostri prodotti e servizi, contattaci al seguente indirizzo [info\@nocerosso.com](mailto:info@nocerosso.com) siamo a vostra disposizione per rispondere a tutte le vostre domande.
-
-[@lejerskog2015]

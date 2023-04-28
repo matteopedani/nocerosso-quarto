@@ -52,5 +52,28 @@
   },
   "previsioni.qmd": {
     "previsioni.html": "b257057f"
+  },
+  "business.qmd": {
+    "business.html": "65c32879",
+    "business.odt": "58f81b84",
+    "business.docx": "24ad58fe"
+  },
+  "lettera.qmd": {
+    "lettera.html": "e26ad3d6",
+    "lettera.docx": "7ec54cc8",
+    "lettera.odt": "d4079b08",
+    "lettera.tex": "88cf7c54"
+  },
+  "test.qmd": {
+    "test.html": "b1148d4d"
+  },
+  "test.Rmd": {
+    "test.html": "39cbcc8c"
+  },
+  "chat.qmd": {
+    "chat.html": "2dba6567"
+  },
+  "nanofibre.qmd": {
+    "nanofibre.html": "fb1e9ba0"
   }
 }
