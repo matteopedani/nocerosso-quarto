@@ -3,16 +3,6 @@ author: Matteo Pedani
 lang: it
 format: 
   html: default
-  pdf: 
-    documentclass: report
-    classoption: [onecolumn]
-    lof: true
-    lot: true
-    geometry:
-      - top=30mm
-      - left=20mm
-      - heightrounded
-    colorlinks: true
   odt:
     page: a4
 ---
