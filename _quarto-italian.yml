@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs/it
+website:
+  title: "Nocerosso"
+  navbar:
+    logo: "/img/nocerosso2.png"
+    left:
+      - text: video
+        href: video.qmd
+      - text: articoli
+        href: articoli.qmd
+      - text: onde
+        href: previsioni.qmd
+    right:
+      - text: contatti
+        href: chi-siamo.qmd
+      - icon: envelope
+        href: mailto:info@nocerosso.com
+        aria-label: Email
+      - href: ../en
+        text: english
+  page-footer:
+    center: 
+      - text: "chi siamo"
+        href: chi-siamo.qmd
+      - text: "riferimenti"
+        href: reproduction.qmd
+format: 
+  html:
+    theme: default
+    css: styles.css
+    toc: true
+editor: visual
+lang: it
+
