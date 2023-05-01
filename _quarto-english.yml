@@ -19,7 +19,7 @@ website:
       - icon: envelope
         href: mailto:info@nocerosso.com
         aria-label: Email
-      - href: ../it
+      - href: /
         text: italiano
   page-footer:
     center: 
