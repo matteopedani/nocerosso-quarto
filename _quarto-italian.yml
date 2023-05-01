@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs/it
+  
 website:
   title: "Nocerosso"
   navbar:

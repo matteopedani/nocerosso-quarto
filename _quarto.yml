@@ -1,33 +1,10 @@
 project:
   type: website
   output-dir: docs
-website:
-  title: "Nocerosso"
-  navbar:
-    left:
-      - text: video
-        href: video.qmd
-      - text: articoli
-        href: articoli.qmd
-      - text: onde
-        href: previsioni.qmd
-    right:
-      - text: contatti
-        href: chi-siamo.qmd
-      - icon: envelope
-        href: mailto:info@nocerosso.com
-        aria-label: Email
-  page-footer:
-    center: 
-      - text: "chi siamo"
-        href: chi-siamo.qmd
-      - text: "riferimenti"
-        href: reproduction.qmd
-format: 
-  html:
-    theme: default
-    css: styles.css
-    toc: true
-editor: visual
-lang: it
 
+resources:
+  - "/index.html"
+  
+profile:
+  default: italian
+  group: [english, italian]
