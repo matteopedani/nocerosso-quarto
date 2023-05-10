@@ -25,7 +25,7 @@
     "href": "video.html",
     "title": "video",
     "section": "",
-    "text": "Video\n\nAlcuni video che parlano dell’energia delle onde in maniera accessibile.\n\n\nHere are some videos that explain wave energy in an accessible way."
+    "text": "Video\n\nAlcuni video che parlano dell’energia delle onde in maniera accessibile."
   },
   {
     "objectID": "nanofibre.html",
@@ -47,20 +47,6 @@
     "title": "",
     "section": "",
     "text": "Serie dell’altezza delle onde e previsioni, utili per calcolare l’energia del mare e calcolare le dimensioni delle boe e l’ottimale risonanza\n\nDal sito di Copernicus Mediterranean Sea Waves Analysis and Forecast\nDOI (Product): https://doi.org/10.25423/cmcc/medsea_analysisforecast_wav_006_017_medwam4\nReferences:\n\nKorres, G., Oikonomou, C., Denaxa, D., & Sotiropoulou, M. (2022). Mediterranean Sea Waves Analysis and Forecast (CMEMS MED-Waves, MEDWAΜ4 system) (Version 1) Data set. Copernicus Monitoring Environment Marine Service (CMEMS). https://doi.org/10.25423/CMCC/MEDSEA_ANALYSISFORECAST_WAV_006_017_MEDWAM4"
-  },
-  {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "Theming with bslib and thematic",
-    "section": "",
-    "text": "This is an R Markdown document themed with {bslib} package. {bslib} makes it easy to customize the main colors and fonts of a html_document, flexdashboard::flex_dashboard, shiny::fluidPage(), or more generally any website that uses Bootstrap for styling. The theme parameter in the yaml front-matter of this Rmd document describes a bslib::bs_theme() object, which provides access to 100s of theming options (via its ... argument) in addition to the main options demonstrated here (e.g., bg, fg, primary, etc).\nThis particular example uses {bslib}’s default Bootstrap version (which, at the time of writing, is Bootstrap 5). However, if reproducibility is important, it’s recommended that you “lock-in” the version by adding version: 5 to the theme definition."
-  },
-  {
-    "objectID": "test.html#themed-plots",
-    "href": "test.html#themed-plots",
-    "title": "Theming with bslib and thematic",
-    "section": "Themed Plots",
-    "text": "Themed Plots\nWhen running this document with {thematic} installed, the thematic::thematic_rmd(font = \"auto\") effectively translates theme (CSS) settings to new global theming defaults for {ggplot2}, {lattice}, and {base} R graphics:\n\nggplot2\n\nlibrary(ggplot2)\n\nggplot(mpg, aes(displ, hwy)) +\n  geom_point() + geom_smooth()\n\nError : The fig.showtext code chunk option must be TRUE\n\n\n`geom_smooth()` using method = 'loess' and formula = 'y ~ x'\n\n\n\n\n\n\n\nlattice\n\nlattice::show.settings()\n\nError : The fig.showtext code chunk option must be TRUE\n\n\n\n\n\n\n\nbase\n\nplot(pressure, col = thematic::thematic_get_option(\"accent\"))\n\nError : The fig.showtext code chunk option must be TRUE"
   },
   {
     "objectID": "matteo_pedani/cv.html",
@@ -119,17 +105,17 @@
     "text": "Energia e cibo dal mare, dalle onde, dal sole, dal vento e dagli allevamenti di molluschi e pesci.\nIn alto mare tra la Sardegna e la Spagna un sistema integrato per allevamento di pesci e ostricoltura, con l’istallazione contempora di pannelli fotovoltaici e generatori elettrici dalle onde.\nUn sistema integrato, semplice per minimizzare i costi e la manutenzione\n\n\nEnergia dalle onde?\nLe onde sono create dal vento che si muove sulla superficie dell’oceano, ma continuano a lungo anche dopo che il vento si è placato. Questa complementarità rende l’energia del moto ondoso il partner perfetto per l’energia eolica, in quanto estende notevolmente la produzione di energia.\nCatturiamo il movimento delle onde del mare e lo utilizzano per creare energia. La quantità di energia creata dipende dalla velocità, dall’altezza e dalla frequenza delle onde.\n\n\nTecnologie dell’energia delle onde\nDa oltre 150 anni sono stati brevettati dei sistemi per sfruttare le onde del mare, e da dopo il 1970, sempre più ricerca è stata fatta in questo campo, per ottimizzare e superare i problemi che sono connessi alla produzione di energia dal mare. Attualmente esistono diverse tecnologie ben consolidate per catturare l’energia delle onde.\n\nNoi usiamo dei “point absorber” che sono boe galleggianti che convertono il movimento delle onde sulla superficie dell’acqua, ed usiamo questo movimento per produrre corrente elettrica, attraverso un generatore elettrico lineare.\nRelationship between Power in KW and Velocity of the buoy in m/s.\n\n\n\nrapporto tra Potenza in KW e la Velocità della boa in m/ (Lejerskog et al. 2015)\n\n\n\n\n\nVoltaggio/tempo V/s (Lejerskog et al. 2015)\n\n\nPrevediamo di realizzare un campo di boe nel mare ad ovest della Sardegna dove come da studi (Vicinanza, Contestabile, e Ferrante 2013) pubblicati recentemete si possono avere delle medie di 9 kW/m di energia .\nPer maggiori informazioni sui nostri prodotti e servizi, contattaci al seguente indirizzo info@nocerosso.com siamo a vostra disposizione per rispondere a tutte le vostre domande."
   },
   {
-    "objectID": "index.html#sec-integration-of-photovoltaic-and-wave-energy-systems-for-fish-and-oyster-farming-in-sardinia-a-feasibility-study",
-    "href": "index.html#sec-integration-of-photovoltaic-and-wave-energy-systems-for-fish-and-oyster-farming-in-sardinia-a-feasibility-study",
-    "title": "",
-    "section": "Integration of Photovoltaic and Wave Energy Systems for Fish and Oyster Farming in Sardinia: A Feasibility Study",
-    "text": "Integration of Photovoltaic and Wave Energy Systems for Fish and Oyster Farming in Sardinia: A Feasibility Study\nThe growing need for electricity and the need to reduce greenhouse gas emissions have led to the search for alternative energy solutions. Solar energy and energy generated from ocean waves represent sources of renewable energy with great potential. In addition, fish and oyster farming is an important activity in the region of Sardinia, where the environmental conditions are favorable. In this article, we present a feasibility study of an integrated system of photovoltaic panels and wave energy generators for fish and oyster farming in open sea, in front of Oristano."
+    "objectID": "draft/test.html",
+    "href": "draft/test.html",
+    "title": "Theming with bslib and thematic",
+    "section": "",
+    "text": "This is an R Markdown document themed with {bslib} package. {bslib} makes it easy to customize the main colors and fonts of a html_document, flexdashboard::flex_dashboard, shiny::fluidPage(), or more generally any website that uses Bootstrap for styling. The theme parameter in the yaml front-matter of this Rmd document describes a bslib::bs_theme() object, which provides access to 100s of theming options (via its ... argument) in addition to the main options demonstrated here (e.g., bg, fg, primary, etc).\nThis particular example uses {bslib}’s default Bootstrap version (which, at the time of writing, is Bootstrap 5). However, if reproducibility is important, it’s recommended that you “lock-in” the version by adding version: 5 to the theme definition."
   },
   {
-    "objectID": "index.html#sec-energy-and-food-from-the-sea-waves-sun-wind-and-aquaculture.",
-    "href": "index.html#sec-energy-and-food-from-the-sea-waves-sun-wind-and-aquaculture.",
-    "title": "",
-    "section": "Energy and Food from the Sea, Waves, Sun, Wind, and Aquaculture.",
-    "text": "Energy and Food from the Sea, Waves, Sun, Wind, and Aquaculture.\nIn the open sea Sardinia an integrated system for fish and oyster farming is being developed, with the simultaneous installation of photovoltaic panels and wave energy generators.\nAn integrated system, simple to minimize costs and maintenance\n\n\nEnergy from waves?\nWaves are created by the wind moving across the surface of the ocean, but they continue long after the wind has died down. This complementarity makes the energy of wave motion the perfect partner for wind energy, as it greatly extends energy production.\nWe capture the movement of ocean waves and use it to create energy. The amount of energy created depends on the speed, height, and frequency of the waves.\n\n\nWave energy technologies\nFor over 150 years, systems have been patented to harness the power of ocean waves, and since the 1970s, increasing research has been conducted in this field to optimize and overcome the challenges associated with wave energy production. Currently, there are several well-established technologies for capturing wave energy.\n\n\nWe use “point absorber” “point absorbers,” which are floating buoys that convert the motion of waves on the water’s surface, and we use this motion to produce electricity through a linear electrical generator.\n\n\n\n\nRelationship between Power in KW and Velocity of the buoy in m/s.\n\n\n\n\n\nVolt/second V/s (Lejerskog et al. 2015)\n\n\nWe plan to build a field of buoys in the sea west of Sardinia, where recent studies (Vicinanza, Contestabile, e Ferrante 2013) have shown an average of 9 kW/m of energy can be obtained.\nFor more information about our products and services, please contact us at info@nocerosso.com We are at your disposal to answer all your questions."
+    "objectID": "draft/test.html#themed-plots",
+    "href": "draft/test.html#themed-plots",
+    "title": "Theming with bslib and thematic",
+    "section": "Themed Plots",
+    "text": "Themed Plots\nWhen running this document with {thematic} installed, the thematic::thematic_rmd(font = \"auto\") effectively translates theme (CSS) settings to new global theming defaults for {ggplot2}, {lattice}, and {base} R graphics:\n\nggplot2\n\nlibrary(ggplot2)\n\nggplot(mpg, aes(displ, hwy)) +\n  geom_point() + geom_smooth()\n\nError : The fig.showtext code chunk option must be TRUE\n\n\n`geom_smooth()` using method = 'loess' and formula = 'y ~ x'\n\n\n\n\n\n\n\nlattice\n\nlattice::show.settings()\n\nError : The fig.showtext code chunk option must be TRUE\n\n\n\n\n\n\n\nbase\n\nplot(pressure, col = thematic::thematic_get_option(\"accent\"))\n\nError : The fig.showtext code chunk option must be TRUE"
   }
 ]
