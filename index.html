@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,14 +17,15 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
 }
-.hanging div.csl-entry {
+.hanging-indent div.csl-entry {
   margin-left:2em;
   text-indent:-2em;
 }
@@ -38,8 +39,7 @@ div.csl-right-inline {
 }
 div.csl-indent {
   margin-left: 2em;
-}
-</style>
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -74,7 +74,8 @@ div.csl-indent {
     "search-more-matches-text": "ulteriori risultati in questo documento",
     "search-clear-button-title": "Pulire",
     "search-detached-cancel-button-title": "Cancellare",
-    "search-submit-button-title": "Inviare"
+    "search-submit-button-title": "Inviare",
+    "search-label": "Ricerca"
   }
 }</script>
 
@@ -93,40 +94,42 @@ div.csl-indent {
     <img src="./img/nocerosso.svg" alt="" class="navbar-logo">
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Ricerca"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Attiva/disattiva la navigazione" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./video.html">
+    <a class="nav-link" href="./video.html" rel="" target="">
  <span class="menu-text">video</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./articoli.html">
+    <a class="nav-link" href="./articoli.html" rel="" target="">
  <span class="menu-text">articoli</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./previsioni.html">
+    <a class="nav-link" href="./previsioni.html" rel="" target="">
  <span class="menu-text">onde</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./chi-siamo.html">
+    <a class="nav-link" href="./chi-siamo.html" rel="" target="">
  <span class="menu-text">contatti</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:info@nocerosso.com"><i class="bi bi-envelope" role="img" aria-label="Email">
+    <a class="nav-link" href="mailto:info@nocerosso.com" rel="" target=""><i class="bi bi-envelope" role="img" aria-label="Email">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./../en">
+    <a class="nav-link" href="./../en" rel="" target="">
  <span class="menu-text">english</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -136,7 +139,17 @@ div.csl-indent {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">In questa pagina</h2>
+   
+  <ul>
+  <li><a href="#integrazione-di-sistemi-fotovoltaici-e-generatori-elettrici-dalle-onde-per-lallevamento-di-pesci-e-ostriche-in-sardegna-uno-studio-di-fattibilità" id="toc-integrazione-di-sistemi-fotovoltaici-e-generatori-elettrici-dalle-onde-per-lallevamento-di-pesci-e-ostriche-in-sardegna-uno-studio-di-fattibilità" class="nav-link active" data-scroll-target="#integrazione-di-sistemi-fotovoltaici-e-generatori-elettrici-dalle-onde-per-lallevamento-di-pesci-e-ostriche-in-sardegna-uno-studio-di-fattibilità">Integrazione di sistemi fotovoltaici e generatori elettrici dalle onde per l’allevamento di pesci e ostriche in Sardegna: uno studio di fattibilità</a></li>
+  <li><a href="#sec-sviluppiamo-impianti-per-la-produzione-di-energia-dalle-onde-del-mare" id="toc-sec-sviluppiamo-impianti-per-la-produzione-di-energia-dalle-onde-del-mare" class="nav-link" data-scroll-target="#sec-sviluppiamo-impianti-per-la-produzione-di-energia-dalle-onde-del-mare">Energia e cibo dal mare, dalle onde, dal sole, dal vento e dagli allevamenti di molluschi e pesci.</a>
+  <ul class="collapse">
+  <li><a href="#sec-tecnologie-dellenergia-delle-onde" id="toc-sec-tecnologie-dellenergia-delle-onde" class="nav-link" data-scroll-target="#sec-tecnologie-dellenergia-delle-onde">Tecnologie dell’energia delle onde</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -144,7 +157,6 @@ div.csl-indent {
 
 
 <p><img src="img/nocerosso.svg" class="img-fluid" width="400">s.r.l.</p>
-<div>
 <section id="integrazione-di-sistemi-fotovoltaici-e-generatori-elettrici-dalle-onde-per-lallevamento-di-pesci-e-ostriche-in-sardegna-uno-studio-di-fattibilità" class="level2">
 <h2 class="anchored" data-anchor-id="integrazione-di-sistemi-fotovoltaici-e-generatori-elettrici-dalle-onde-per-lallevamento-di-pesci-e-ostriche-in-sardegna-uno-studio-di-fattibilità">Integrazione di sistemi fotovoltaici e generatori elettrici dalle onde per l’allevamento di pesci e ostriche in Sardegna: uno studio di fattibilità</h2>
 <p>Il crescente fabbisogno di energia elettrica e la necessità di ridurre le emissioni di gas serra hanno spinto la ricerca di soluzioni energetiche alternative. L’energia solare e quella generata dalle onde del mare rappresentano fonti di energia rinnovabile con grande potenziale. Inoltre, l’allevamento di pesci e ostriche è un’attività importante nella regione della Sardegna, dove le condizioni ambientali sono favorevoli. In questo articolo, verrà presentato uno studio di fattibilità di un sistema integrato di pannelli fotovoltaici e generatori elettrici dalle onde per l’allevamento di pesci e ostriche in mare aperto, davanti ad Oristano.</p>
@@ -162,36 +174,35 @@ div.csl-indent {
 <section id="sec-tecnologie-dellenergia-delle-onde" class="level3">
 <h3 class="anchored" data-anchor-id="sec-tecnologie-dellenergia-delle-onde">Tecnologie dell’energia delle onde</h3>
 <p>Da oltre 150 anni sono stati brevettati dei sistemi per sfruttare le onde del mare, e da dopo il 1970, sempre più ricerca è stata fatta in questo campo, per ottimizzare e superare i problemi che sono connessi alla produzione di energia dal mare. Attualmente esistono diverse tecnologie ben consolidate per catturare l’energia delle onde.</p>
-<div class="quarto-video ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/NGVEqVwin7Q" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/NGVEqVwin7Q" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <p>Noi usiamo dei “<a href="https://tethys-engineering.pnnl.gov/technology/point-absorber">point absorber</a>” che sono boe galleggianti che convertono il movimento delle onde sulla superficie dell’acqua, ed usiamo questo movimento per produrre corrente elettrica, attraverso un generatore elettrico lineare.</p>
 <p>Relationship between Power in KW and Velocity of the buoy in m/s.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0960148114007800-gr6.jpg" class="img-fluid figure-img" style="width:77.0%" alt="Potenza in KW / Velocità della boa in m/s"></p>
-<p></p><figcaption class="figure-caption">rapporto tra Potenza in KW e la Velocità della boa in m/ <span class="citation" data-cites="lejerskog2015">(<a href="#ref-lejerskog2015" role="doc-biblioref">Lejerskog et al. 2015</a>)</span></figcaption><p></p>
+<figcaption class="figure-caption">rapporto tra Potenza in KW e la Velocità della boa in m/ <span class="citation" data-cites="lejerskog2015">(<a href="#ref-lejerskog2015" role="doc-biblioref">Lejerskog et al. 2015</a>)</span></figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0960148114007800-gr7.jpg" class="img-fluid figure-img" style="width:77.0%" alt="Voltaggio/tempo  V/s"></p>
-<p></p><figcaption class="figure-caption">Voltaggio/tempo V/s <span class="citation" data-cites="lejerskog2015">(<a href="#ref-lejerskog2015" role="doc-biblioref">Lejerskog et al. 2015</a>)</span></figcaption><p></p>
+<figcaption class="figure-caption">Voltaggio/tempo V/s <span class="citation" data-cites="lejerskog2015">(<a href="#ref-lejerskog2015" role="doc-biblioref">Lejerskog et al. 2015</a>)</span></figcaption>
 </figure>
 </div>
 <p>Prevediamo di realizzare un campo di boe nel mare ad ovest della Sardegna dove come da studi <span class="citation" data-cites="vicinanza2013">(<a href="#ref-vicinanza2013" role="doc-biblioref">Vicinanza, Contestabile, e Ferrante 2013</a>)</span> pubblicati recentemete si possono avere delle medie di 9 kW/m di energia .</p>
 <p>Per maggiori informazioni sui nostri prodotti e servizi, contattaci al seguente indirizzo <a href="mailto:info@nocerosso.com">info@nocerosso.com</a> siamo a vostra disposizione per rispondere a tutte le vostre domande.</p>
-</section>
-</section>
-</div>
 <p>For more information about our products and services, please contact us at</p>
 
 
 
+</section>
+</section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">Referenze</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
-<div id="ref-lejerskog2015" class="csl-entry" role="doc-biblioentry">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">Referenze</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-lejerskog2015" class="csl-entry" role="listitem">
 Lejerskog, Erik, Cecilia Boström, Ling Hai, Rafael Waters, e Mats Leijon. 2015. <span>«Experimental Results on Power Absorption from a Wave Energy Converter at the Lysekil Wave Energy Research Site»</span>. <em>Renewable Energy</em> 77 (maggio): 9–14. <a href="https://doi.org/10.1016/j.renene.2014.11.050">https://doi.org/10.1016/j.renene.2014.11.050</a>.
 </div>
-<div id="ref-vicinanza2013" class="csl-entry" role="doc-biblioentry">
+<div id="ref-vicinanza2013" class="csl-entry" role="listitem">
 Vicinanza, D., P. Contestabile, e V. Ferrante. 2013. <span>«Wave Energy Potential in the North-West of Sardinia (Italy)»</span>. <em>Renewable Energy</em> 50 (febbraio): 506–21. <a href="https://doi.org/10.1016/j.renene.2012.07.015">https://doi.org/10.1016/j.renene.2012.07.015</a>.
 </div>
 </div></section></div></main> <!-- /main -->
@@ -222,9 +233,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -289,6 +314,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -331,8 +442,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-      <div class="nav-footer-center">
-        <ul class="footer-items list-unstyled">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
     <li class="nav-item">
     <a class="nav-link" href="./chi-siamo.html">chi siamo</a>
   </li>  
@@ -340,7 +454,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <a class="nav-link" href="./reproduction.html">riferimenti</a>
   </li>  
 </ul>
-      </div>
+    </div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
   </div>
 </footer>
 
