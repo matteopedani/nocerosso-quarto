@@ -1,0 +1,28 @@
+---
+title: "BEST"
+author: "Matteo Pedani"
+format: html
+editor: visual
+---
+
+Table 2. Cost estimate for BEST system components with 70 MW and 7914 MWh capacity.
+
+```{ojs}
+cables = 8.3*300
+cement  =5*1000
+```
+
+
+| Component          | Cost description                                                                                                                                                                                                                                              | Cost            |
+|------------|---------------------------------------------------|-----------|
+| Cables             | 3.5 km of cables, 285 KN, 8,3 USD/m each,, 2754 cables with 30 mm from [\[66\]](https://www.sciencedirect.com/science/article/pii/S2352152X21004771#bib0066) are required and results in a cost of 80,000,000 USD. A larger cable could further reduce costs. | 91,430,000 USD  |
+| Buoyancy recipient | 100 HDPE pipes with 100 m. Extrapolating the costs in [\[65\]](https://www.sciencedirect.com/science/article/pii/S2352152X21004771#bib0065), it is estimated a cost of 120 USD per metre of pipe.                                                             | 1200,000 USD    |
+| Anchor             | The weight of the anchor is assumed to be 10% of the maximum buoyancy recipient force. The cost of steel is taken from [\[68\]](https://www.sciencedirect.com/science/article/pii/S2352152X21004771#bib0068). The cost of steel assumed is 2000 USD/tonne.    | 157,000,000 USD |
+| Motor/generator    | Power capacity of 70 MW. Power costs 1000 USD/kW [\[69\]](https://www.sciencedirect.com/science/article/pii/S2352152X21004771#bib0069).                                                                                                                       | 70,000,000 USD  |
+| Construction       | 50% of the equipment costs due to the complexity of the project.                                                                                                                                                                                              | 159,815,000 USD |
+| Hydrogen           | Cost of hydrogen of 6 USD/kg [\[70\]](https://www.sciencedirect.com/science/article/pii/S2352152X21004771#bib0070).                                                                                                                                           | 4710,000 USD    |
+| Other              | Other omponents which have negligible costs are the plastic envelope used to separate the seawater and compression gases, the pulley system, and the able storage system.     |                                                                                                                                                                                                                                    |
+| Additional costs with depth | The additional costs with depth vary according to [Fig. 7](https://www.sciencedirect.com/science/article/pii/S2352152X21004771#fig0007). The reference depth, i.e. the altitude in which the additional cost is zero is set to be 6000 m. | 0 |
+| Total project cost | Total project cost assuming a depth of 6000 m | 484,155,000 USD |
+| Energy storage cost (USD/kWh) | Assuming the cost of all components and storage capacity 4.6198 GWh, that is at a maximum depth of 6000 m and a varying depth of 4000[\*](https://www.sciencedirect.com/science/article/pii/S2352152X21004771#tb2fn1). | 105 USD/kWh |
+| Power cost (USD/kW) | Assuming the costs of all components and storage capacity[\*](https://www.sciencedirect.com/science/article/pii/S2352152X21004771#tb2fn1). | 6917 USD/kW |
