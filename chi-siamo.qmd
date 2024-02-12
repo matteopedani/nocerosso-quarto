@@ -24,4 +24,4 @@ REA: OR - 359118
 
 ### Amministratore
 
--   [Matteo Pedani](/persone/matteo_pedani/matteo_pedani.html)
+-   [Matteo Pedani](/matteo_pedani)

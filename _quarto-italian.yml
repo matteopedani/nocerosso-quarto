@@ -1,11 +1,10 @@
 project:
   type: website
   output-dir: docs
-  
 website:
-  title: "Nocerosso"
+#  title: "nocerosso"
   navbar:
-    logo: "/img/nocerosso2.png"
+    logo: "/img/nocerosso.svg"
     left:
       - text: video
         href: video.qmd

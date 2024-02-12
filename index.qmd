@@ -1,16 +1,30 @@
 ---
 bibliography: references.bib
-lang: it
+title-prefix: nocerosso
 ---
-::: {.content-visible when-profile="italian"}
 
-## Integrazione di sistemi fotovoltaici e generatori elettrici dalle onde per l'allevamento di pesci e ostriche in Sardegna: uno studio di fattibilità
+![](img/nocerosso.svg){width="400"}s.r.l.
+
+::: {.content-visible when-profile="italian"}
+## Buoyancy Energy Storage Technology (BEST): Una soluzione fattibile per l'accumulo dell'Energia con boe
+
+L'attuale transizione energetica globale vede un aumento delle fonti di energia intermittenti sulla rete, come l'eolico e il solare. Queste fonti richiedono soluzioni di accumulo energetico per integrarle in modo efficiente. Sebbene le batterie possano fornire una soluzione di archiviazione a breve termine, esiste ancora la necessità di tecnologie che possano garantire l'archiviazione annuale sul sito senza la complessità delle centrali idroelettriche a pompaggio.
+
+Una soluzione promettente è la tecnologia per accumulo di energia con boe cioè la Buoyancy Energy Storage Technology (BEST), che opera in profondità nel mare. BEST offre tempi di risposta rapidi, un'efficienza competitiva e la capacità di scalare a capacità superiori rispetto ai sistemi di archiviazione delle batterie esistenti. Questa tecnologia può essere utilizzata per l'archiviazione dell'energia in piccole isole, regioni costiere o nei sistemi di energia eolica offshore.
+
+Il funzionamento di BEST è semplice: l'elettricità intermittente alimenta un motore collegato a un cavo che tira un grande galleggiante a pressione in profondità. Durante la discesa, l'energia cinetica si trasforma in energia potenziale grazie alla forza di galleggiamento. Quando necessario, il galleggiante risale, azionando il motore e restituendo energia elettrica stabile e prevedibile alla rete.
+
+BEST potrebbe essere una soluzione complementare ai sistemi di archiviazione delle batterie, fornendo l'archiviazione settimanale necessaria per bilanciare l'energia intermittente. Questa tecnologia rappresenta un passo avanti verso un futuro energetico più sostenibile e resiliente
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2352152X21004771-gr1.jpg){fig-align="center"}
+
+## Integrazione di sistemi fotovoltaici per l'allevamento di pesci e ostriche in Sardegna: uno studio di fattibilità
 
 Il crescente fabbisogno di energia elettrica e la necessità di ridurre le emissioni di gas serra hanno spinto la ricerca di soluzioni energetiche alternative. L'energia solare e quella generata dalle onde del mare rappresentano fonti di energia rinnovabile con grande potenziale. Inoltre, l'allevamento di pesci e ostriche è un'attività importante nella regione della Sardegna, dove le condizioni ambientali sono favorevoli. In questo articolo, verrà presentato uno studio di fattibilità di un sistema integrato di pannelli fotovoltaici e generatori elettrici dalle onde per l'allevamento di pesci e ostriche in mare aperto, davanti ad Oristano.
 
 ## Energia e cibo dal mare, dalle onde, dal sole, dal vento e dagli allevamenti di molluschi e pesci. {#sec-sviluppiamo-impianti-per-la-produzione-di-energia-dalle-onde-del-mare}
 
-In alto mare mare tra la Sardegna e la Spagna un sistema integrato per allevamento di pesci e ostricoltura in alto mare, con l'istallazione contempora di pannelli fotovoltaici e generatori elettrici dalle onde.
+In alto mare tra la Sardegna e la Spagna un sistema integrato per allevamento di pesci e ostricoltura, con l'istallazione contemporanea di pannelli fotovoltaici.
 
 **Un sistema integrato, semplice per minimizzare i costi e la manutenzione**
 
@@ -22,6 +36,10 @@ Le onde sono create dal vento che si muove sulla superficie dell'oceano, ma cont
 
 Catturiamo il movimento delle onde del mare e lo utilizzano per creare energia. La quantità di energia creata dipende dalla velocità, dall'altezza e dalla frequenza delle onde.
 
+#### Energia dalle onde spiegata dai bambini.
+
+{{< video https://www.youtube.com/embed/5dK19QAqjgA >}}
+
 ### Tecnologie dell'energia delle onde {#sec-tecnologie-dellenergia-delle-onde}
 
 Da oltre 150 anni sono stati brevettati dei sistemi per sfruttare le onde del mare, e da dopo il 1970, sempre più ricerca è stata fatta in questo campo, per ottimizzare e superare i problemi che sono connessi alla produzione di energia dal mare. Attualmente esistono diverse tecnologie ben consolidate per catturare l'energia delle onde.
@@ -30,7 +48,9 @@ Da oltre 150 anni sono stati brevettati dei sistemi per sfruttare le onde del ma
 
 Noi usiamo dei "[point absorber](https://tethys-engineering.pnnl.gov/technology/point-absorber)" che sono boe galleggianti che convertono il movimento delle onde sulla superficie dell'acqua, ed usiamo questo movimento per produrre corrente elettrica, attraverso un generatore elettrico lineare.
 
-![rapporto tra Potenza in KW e la Velocità della boa in m/s [@lejerskog2015]](https://ars.els-cdn.com/content/image/1-s2.0-S0960148114007800-gr6.jpg){fig-alt="Potenza in KW / Velocità della boa in m/s" fig-align="center" width="77%"}
+Relationship between Power in KW and Velocity of the buoy in m/s.
+
+![rapporto tra Potenza in KW e la Velocità della boa in m/ [@lejerskog2015]](https://ars.els-cdn.com/content/image/1-s2.0-S0960148114007800-gr6.jpg){fig-alt="Potenza in KW / Velocità della boa in m/s" fig-align="center" width="77%"}
 
 ![Voltaggio/tempo V/s [@lejerskog2015]](https://ars.els-cdn.com/content/image/1-s2.0-S0960148114007800-gr7.jpg){fig-alt="Voltaggio/tempo  V/s" fig-align="center" width="77%"}
 
@@ -38,39 +58,57 @@ Prevediamo di realizzare un campo di boe nel mare ad ovest della Sardegna dove c
 
 Per maggiori informazioni sui nostri prodotti e servizi, contattaci al seguente indirizzo [info\@nocerosso.com](mailto:info@nocerosso.com) siamo a vostra disposizione per rispondere a tutte le vostre domande.
 :::
-::: {.content-visible when-profile="english"}
 
-## Integration of Photovoltaic and Wave Energy Systems for Fish and Oyster Farming in Sardinia: A Feasibility Study
+For more information about our products and services, please contact us at
+
+::: {.content-visible when-profile="english"}
+## Buoyancy Energy Storage Technology (BEST): A Viable Solution for Energy Storage
+
+Buoyancy Energy Storage Technology (BEST): A Viable Solution for Energy Storage
+
+Amidst the ongoing global energy transition, there is a growing presence of intermittent energy sources on the grid, such as wind and solar. These sources necessitate efficient energy storage solutions for seamless integration. While batteries can provide short-term storage, there remains a need for technologies that can enable on-site weekly storage without the complexity of pumped hydro power plants.
+
+Enter Buoyancy Energy Storage Technology (BEST), which operates deep within the sea. BEST offers rapid response times, competitive efficiency, and scalability to higher capacities compared to existing battery storage systems. This technology can be employed for energy storage in small islands, coastal regions, or offshore wind systems.
+
+The functioning of BEST is straightforward: intermittent electricity powers a motor connected to a cable that lowers a large pressure buoy deep into the water. During descent, kinetic energy is converted into potential energy due to buoyancy force. When needed, the buoy ascends, driving the motor and returning stable and predictable electrical energy to the grid.
+
+BEST could complement battery storage systems, providing the necessary weekly storage to balance intermittent energy. It represents a step forward toward a more sustainable and resilient energy future.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S2352152X21004771-gr1.jpg){fig-align="center"}
+
+## Integration of Photovoltaic and Wave Energy Systems for Fish and Oyster Farming in Sardinia: A Feasibility Study {#sec-integration-of-photovoltaic-and-wave-energy-systems-for-fish-and-oyster-farming-in-sardinia-a-feasibility-study}
 
 The growing need for electricity and the need to reduce greenhouse gas emissions have led to the search for alternative energy solutions. Solar energy and energy generated from ocean waves represent sources of renewable energy with great potential. In addition, fish and oyster farming is an important activity in the region of Sardinia, where the environmental conditions are favorable. In this article, we present a feasibility study of an integrated system of photovoltaic panels and wave energy generators for fish and oyster farming in open sea, in front of Oristano.
 
-## Energy and Food from the Sea, Waves, Sun, Wind, and Aquaculture. 
+## Energy and Food from the Sea, Waves, Sun, Wind, and Aquaculture. {#sec-energy-and-food-from-the-sea-waves-sun-wind-and-aquaculture.}
 
-In the open sea between Sardinia and Spain, an integrated system for fish and oyster farming is being developed, with the simultaneous installation of photovoltaic panels and wave energy generators.
+In the open sea Sardinia an integrated system for fish and oyster farming is being developed, with the simultaneous installation of photovoltaic panels and wave energy generators.
 
 **An integrated system, simple to minimize costs and maintenance**
 
 ![](img/water-gfb24d37d4_1920.png){width="713"}
 
-#### Energia dalle onde? {#sec-come-funziona}
+#### Energy from waves? {#sec-energy-from-waves}
 
-Le onde sono create dal vento che si muove sulla superficie dell'oceano, ma continuano a lungo anche dopo che il vento si è placato. Questa complementarità rende l'energia del moto ondoso il partner perfetto per l'energia eolica, in quanto estende notevolmente la produzione di energia.
+Waves are created by the wind moving across the surface of the ocean, but they continue long after the wind has died down. This complementarity makes the energy of wave motion the perfect partner for wind energy, as it greatly extends energy production.
 
-Catturiamo il movimento delle onde del mare e lo utilizzano per creare energia. La quantità di energia creata dipende dalla velocità, dall'altezza e dalla frequenza delle onde.
+We capture the movement of ocean waves and use it to create energy. The amount of energy created depends on the speed, height, and frequency of the waves.
 
-### Tecnologie dell'energia delle onde {#sec-tecnologie-dellenergia-delle-onde}
+### Wave energy technologies {#sec-wave-energy-technologies}
 
-Da oltre 150 anni sono stati brevettati dei sistemi per sfruttare le onde del mare, e da dopo il 1970, sempre più ricerca è stata fatta in questo campo, per ottimizzare e superare i problemi che sono connessi alla produzione di energia dal mare. Attualmente esistono diverse tecnologie ben consolidate per catturare l'energia delle onde.
+For over 150 years, systems have been patented to harness the power of ocean waves, and since the 1970s, increasing research has been conducted in this field to optimize and overcome the challenges associated with wave energy production. Currently, there are several well-established technologies for capturing wave energy.
 
 {{< video https://www.youtube.com/embed/NGVEqVwin7Q >}}
 
-Noi usiamo dei "[point absorber](https://tethys-engineering.pnnl.gov/technology/point-absorber)" che sono boe galleggianti che convertono il movimento delle onde sulla superficie dell'acqua, ed usiamo questo movimento per produrre corrente elettrica, attraverso un generatore elettrico lineare.
+::: {.content-visible when-profile="english"}
+We use "[point absorber](https://tethys-engineering.pnnl.gov/technology/point-absorber)" "point absorbers," which are floating buoys that convert the motion of waves on the water's surface, and we use this motion to produce electricity through a linear electrical generator.
+:::
 
-![rapporto tra Potenza in KW e la Velocità della boa in m/s [@lejerskog2015]](https://ars.els-cdn.com/content/image/1-s2.0-S0960148114007800-gr6.jpg){fig-alt="Potenza in KW / Velocità della boa in m/s" fig-align="center" width="77%"}
+![Relationship between Power in KW and Velocity of the buoy in m/s.](https://ars.els-cdn.com/content/image/1-s2.0-S0960148114007800-gr6.jpg){fig-alt="Potenza in KW / Velocità della boa in m/s" fig-align="center" width="77%"}
 
-![Voltaggio/tempo V/s [@lejerskog2015]](https://ars.els-cdn.com/content/image/1-s2.0-S0960148114007800-gr7.jpg){fig-alt="Voltaggio/tempo  V/s" fig-align="center" width="77%"}
+![Volt/second V/s [@lejerskog2015]](https://ars.els-cdn.com/content/image/1-s2.0-S0960148114007800-gr7.jpg){fig-alt="Voltaggio/tempo  V/s" fig-align="center" width="77%"}
 
-Prevediamo di realizzare un campo di boe nel mare ad ovest della Sardegna dove come da studi [@vicinanza2013] pubblicati recentemete si possono avere delle medie di 9 kW/m di energia .
+We plan to build a field of buoys in the sea west of Sardinia, where recent studies [@vicinanza2013] have shown an average of 9 kW/m of energy can be obtained.
 
-Per maggiori informazioni sui nostri prodotti e servizi, contattaci al seguente indirizzo [info\@nocerosso.com](mailto:info@nocerosso.com) siamo a vostra disposizione per rispondere a tutte le vostre domande.
+For more information about our products and services, please contact us at [info\@nocerosso.com](mailto:info@nocerosso.com) We are at your disposal to answer all your questions.
 :::

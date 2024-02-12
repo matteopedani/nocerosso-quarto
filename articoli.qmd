@@ -1,21 +1,34 @@
 ---
 title: "Articoli"
+bibliography: references.bib
 ---
 
 ## Rassegna stampa
 
+::: {.content-visible when-profile="italian"}
 ### EURONEWS Svezia: record per l'energia eolica, gli altri Paesi dell'Unione sono in ritardo?
+:::
+
+::: {.content-visible when-profile="english"}
+### EURONEWS Sweden: record for wind energy, are other EU countries falling behind?
+:::
 
 ```{=html}
 <iframe width="780" height="500" src="https://it.euronews.com/green/2023/03/29/svezia-record-per-lenergia-eolica-gli-altri-paesi-dellunione-sono-in-ritardo" title="Svezia: record per l'energia eolica"></iframe>
 ```
+::: {.content-visible when-profile="italian"}
 ### Una selezione di articoli scientifici sull'energia dalle onde.
+:::
+
+::: {.content-visible when-profile="english"}
+### A selection of scientific articles on wave energy.
+:::
+
+[@drew2009]
 
 [Sorted bedforms over transgressive deposits along the continental shelf of western Sardinia (Mediterranean Sea)](https://www.sciencedirect.com/science/article/pii/S0025322714003533#f0005) [@defalco2015]
 
 [Wave energy potential in the north-west of Sardinia (Italy)](https://www.sciencedirect.com/science/article/pii/S0960148112004417) [@vicinanza2013]
-
-[Sorted bedforms over transgressive deposits along the continental shelf of western Sardinia (Mediterranean Sea)](https://www.sciencedirect.com/science/article/pii/S0025322714003533#f0005)[@defalco2015a]
 
 [Concept design of an HTS linear power generator for wave energy conversion](https://www.sciencedirect.com/science/article/pii/S277283072300008X?via%3Dihub)
 

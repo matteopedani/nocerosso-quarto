@@ -5,7 +5,14 @@ bibliography: references.bib
 
 ### Video
 
-Alcuni video che parlano, dell energia delle onde in maniera accessibile.
+::: {.content-visible when-profile="italian"}
+Alcuni video che parlano dell'energia delle onde in maniera accessibile.
+:::
+
+::: {.content-visible when-profile="english"}
+Here are some videos that explain wave energy in an accessible way.
+:::
+
 
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UUlA5WKDiww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -16,4 +23,4 @@ Alcuni video che parlano, dell energia delle onde in maniera accessibile.
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xrQBQ2m2blk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
-### 
+---

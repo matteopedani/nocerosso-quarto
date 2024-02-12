@@ -1,0 +1,43 @@
+---
+title: "Matteo Pedani"
+image: matteo.pedani.jpg
+about:
+  id: hero-heading
+  template: solana
+  links:
+    - icon: envelope
+      text: email
+      href: mailto:matteo.pedani@nocerosso.com
+    - icon: phone
+      text: "+39 3343637690"
+      href: tel:00390691415152
+    - icon: telephone
+      text: "+39 069415152"
+      href: tel:00390691415152
+---
+
+::: {#hero-heading}
+##### Amministratore unico
+
+### Nocerosso s.r.l.
+
+##### Ricerca e sviluppo
+
+##### magazzino e uffici
+
+via dell'alberata 3\
+00046 Grottaferrata (RM)\
+Italia
+
+##### Sede Oristano
+
+pec: [nocerosso.pec\@postecert.it](mailto:nocerosso.pec@postecert.it)\
+email: [matteo.pedani\@nocerosso.com](mailto:matteo.pedani@nocerosso.com)\
+telefono: 0039.069415152\
+Capitale Sociale: € 2000,00 i.v.\
+Codice Fiscale: 01267610952\
+Registro Imprese di Oristano: 01267610952\
+REA: OR - 359118\
+:::
+
+[Curriculum Vitae](cv.html) di Matteo Pedani

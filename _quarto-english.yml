@@ -3,9 +3,9 @@ project:
   output-dir: docs/en
   
 website:
-  title: "Nocerosso"
+#  title: "Nocerosso"
   navbar:
-    logo: "/img/nocerosso2.png"
+    logo: "/img/nocerosso.svg"
     left:
       - text: videos
         href: video.qmd
@@ -19,7 +19,7 @@ website:
       - icon: envelope
         href: mailto:info@nocerosso.com
         aria-label: Email
-      - href: /
+      - href: ../
         text: italiano
   page-footer:
     center: 

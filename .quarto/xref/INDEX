@@ -78,5 +78,58 @@
   },
   "persone/matteo_pedani/cv.qmd": {
     "cv.html": "f10ab68c"
+  },
+  "matteo_pedani/index.qmd": {
+    "index.html": "4ae9182e"
+  },
+  "matteo_pedani/cv.qmd": {
+    "cv.html": "bed50c30"
+  },
+  "draft/business.qmd": {
+    "business.html": "6b9e4c76",
+    "business.odt": "3724d87d",
+    "business.docx": "4775812d"
+  },
+  "draft/test.Rmd": {
+    "test.html": "92356d1e"
+  },
+  "lean.qmd": {
+    "lean.html": "9d97c979"
+  },
+  "ac3bb0cdf68ed9f4718f3f62f72c07a5/LeanCanvas.md": {
+    "LeanCanvas.html": "169f8f97"
+  },
+  "stipendi.qmd": {
+    "stipendi.html": "2c737a3e"
+  },
+  "nocerosso_specchietto.md": {
+    "nocerosso_specchietto.html": "58c6d0ae"
+  },
+  "stipendi.Rmd": {
+    "stipendi.html": "e1186b50"
+  },
+  "business-plan.qmd": {
+    "business-plan.html": "2fce3426"
+  },
+  "ac3bb0cdf68ed9f4718f3f62f72c07a5/nocerosso_specchietto.md": {
+    "nocerosso_specchietto.html": "bc009e24"
+  },
+  "bplan.qmd": {
+    "bplan.html": "459c3cb6"
+  },
+  "lettera_modificata.qmd": {
+    "lettera_modificata.html": "97d2f6a3"
+  },
+  "matteo_pedani/vcard.qmd": {
+    "vcard.html": "c4a502af"
+  },
+  "card.Rmd": {
+    "card.html": "c11268f5"
+  },
+  "best.qmd": {
+    "best.html": "082d075c"
+  },
+  "email.qmd": {
+    "email.html": "74db6d64"
   }
 }
