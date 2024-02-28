@@ -1,47 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nocerosso.com/index.html</loc>
-    <lastmod>2023-11-23T16:13:18.895Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nocerosso.com/matteo_pedani/cv.html</loc>
-    <lastmod>2023-11-23T16:13:18.339Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nocerosso.com/chi-siamo.html</loc>
-    <lastmod>2023-11-23T16:13:17.707Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nocerosso.com/chat.html</loc>
-    <lastmod>2023-11-23T16:13:17.247Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nocerosso.com/bplan.html</loc>
-    <lastmod>2023-11-23T16:13:16.735Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nocerosso.com/reproduction.html</loc>
-    <lastmod>2023-11-23T16:13:16.451Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nocerosso.com/articoli.html</loc>
-    <lastmod>2023-11-23T16:13:17.027Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nocerosso.com/video.html</loc>
-    <lastmod>2023-11-23T16:13:17.487Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nocerosso.com/previsioni.html</loc>
-    <lastmod>2023-11-23T16:13:17.935Z</lastmod>
+    <loc>https://nocerosso.com/card.html</loc>
+    <lastmod>2024-02-28T15:55:11.093Z</lastmod>
   </url>
   <url>
     <loc>https://nocerosso.com/matteo_pedani/index.html</loc>
-    <lastmod>2023-11-23T16:13:18.575Z</lastmod>
+    <lastmod>2024-02-28T15:55:08.413Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nocerosso.com/boe.html</loc>
+    <lastmod>2024-02-28T15:55:07.773Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nocerosso.com/previsioni.html</loc>
+    <lastmod>2024-02-28T15:55:07.209Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nocerosso.com/video.html</loc>
+    <lastmod>2024-02-28T15:55:06.741Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nocerosso.com/articoli.html</loc>
+    <lastmod>2024-02-28T15:55:06.253Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nocerosso.com/best.html</loc>
+    <lastmod>2024-02-28T15:55:05.601Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nocerosso.com/reproduction.html</loc>
+    <lastmod>2024-02-28T15:55:05.037Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nocerosso.com/bplan.html</loc>
+    <lastmod>2024-02-28T15:55:05.917Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nocerosso.com/chat.html</loc>
+    <lastmod>2024-02-28T15:55:06.513Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nocerosso.com/chi-siamo.html</loc>
+    <lastmod>2024-02-28T15:55:06.985Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nocerosso.com/apello.html</loc>
+    <lastmod>2024-02-28T15:55:07.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nocerosso.com/matteo_pedani/cv.html</loc>
+    <lastmod>2024-02-28T15:55:08.165Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nocerosso.com/index.html</loc>
+    <lastmod>2024-02-28T15:55:08.861Z</lastmod>
   </url>
   <url>
     <loc>https://nocerosso.com/draft/test.html</loc>
-    <lastmod>2023-11-23T16:13:21.315Z</lastmod>
+    <lastmod>2024-02-28T15:55:20.148Z</lastmod>
   </url>
 </urlset>
