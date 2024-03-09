@@ -3,7 +3,7 @@ bibliography: references.bib
 title-prefix: nocerosso
 ---
 
-![](img/nocerosso.svg){width="400"}s.r.l.
+![](img/nocerosso.svg){width="50%"}s.r.l.
 
 ::: {.content-visible when-profile="italian"}
 ## Buoyancy Energy Storage Technology (BEST): Una soluzione fattibile per l'accumulo dell'Energia con boe

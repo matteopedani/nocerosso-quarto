@@ -1,0 +1,6 @@
+---
+title: "boe"
+author: "Matteo Pedani"
+format: revealjs
+editor: visual
+---
