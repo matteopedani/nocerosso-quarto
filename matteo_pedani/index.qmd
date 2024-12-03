@@ -41,3 +41,7 @@ REA: OR - 359118\
 :::
 
 [Curriculum Vitae](cv.html) di Matteo Pedani
+
+[vcard](matteo_pedani.vcf)
+
+[![](vcard.svg)](matteo_pedani.vcf)

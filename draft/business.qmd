@@ -10,7 +10,7 @@ format:
   docx: default
 ---
 
-![](img/water-gfb24d37d4_1920.png)
+![](../img/water-gfb24d37d4_1920.png)
 
 La Nocerosso S.r.l. è una neonata start-up innovativa che si dedica alla produzione di energia elettrica dalle onde del mare, sfruttando un campo di boe, situato nel mare antistante ad Oristano, in Sardegna. Il nostro obiettivo è quello di fornire energia pulita e rinnovabile, contribuendo così alla transizione verso un sistema energetico più sostenibile ed ecologico.
 
@@ -214,4 +214,4 @@ Per quanto riguarda le azioni future, la Nocerosso S.r.l. intende consolidare il
 
 In sintesi, il Business Plan della Nocerosso S.r.l. si presenta come un progetto innovativo e ambizioso, orientato verso un futuro sostenibile ed ecologico. La società punta a diventare un punto di riferimento nel settore dell'energia rinnovabile, attraverso la ricerca e l'innovazione tecnologica, la collaborazione con la comunità locale e con le autorità competenti, e l'impegno per la sostenibilità ambientale e sociale.
 
-7 \### Bibliografia e riferimenti BIBLIOGRAPHY AND REFERENCES
+## 7. Bibliografia e riferimenti BIBLIOGRAPHY AND REFERENCES
